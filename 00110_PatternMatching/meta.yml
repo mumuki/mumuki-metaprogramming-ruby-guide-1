@@ -1,7 +1,7 @@
 ---
 tags:
-- patternMatching
-- metaprogramming
-- dsl
 - draft
+- dsl
+- metaprogramming
+- patternMatching
 locale: en
