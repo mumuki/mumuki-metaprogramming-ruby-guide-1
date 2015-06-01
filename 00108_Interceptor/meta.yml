@@ -1,6 +1,5 @@
 ---
 tags:
-- nullobject
 - metaprogramming
-- draft
+- interceptor
 locale: en

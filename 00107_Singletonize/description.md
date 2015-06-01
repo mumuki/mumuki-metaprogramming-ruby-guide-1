@@ -1,4 +1,4 @@
-Allow any class to understand a `singletonize` message, which adds to it a instance/get_instance method, which returns always the same instance of the class.
+Allow any class to understand a `singletonize` message, which adds to it a `instance` method, which returns always the same instance of the class.
 
 Example
 

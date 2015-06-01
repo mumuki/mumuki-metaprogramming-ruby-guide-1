@@ -1,0 +1,4 @@
+---
+expectations:
+- binding: 'null'
+  inspection: HasBinding
